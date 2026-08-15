@@ -27,11 +27,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Shay-2804/LeetCode/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/Shay-2804/LeetCode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Shay-2804/LeetCode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shay-2804/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 ## String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Shay-2804/LeetCode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Shay-2804/LeetCode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shay-2804/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/Shay-2804/LeetCode/tree/master/0709-to-lower-case) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Shay-2804/LeetCode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
