@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Shay-2804/LeetCode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shay-2804/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shay-2804/LeetCode/tree/master/0035-search-insert-position) |
+| [0179-largest-number](https://github.com/Shay-2804/LeetCode/tree/master/0179-largest-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shay-2804/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Shay-2804/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Shay-2804/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Shay-2804/LeetCode/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/Shay-2804/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Shay-2804/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shay-2804/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -56,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Shay-2804/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Shay-2804/LeetCode/tree/master/0179-largest-number) |
+## Sorting
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Shay-2804/LeetCode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
