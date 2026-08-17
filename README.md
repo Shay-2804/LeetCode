@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Shay-2804/LeetCode/tree/master/0027-remove-element) |
+| [0151-reverse-words-in-a-string](https://github.com/Shay-2804/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Shay-2804/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Shay-2804/LeetCode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shay-2804/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/Shay-2804/LeetCode/tree/master/0038-count-and-say) |
+| [0151-reverse-words-in-a-string](https://github.com/Shay-2804/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Shay-2804/LeetCode/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/Shay-2804/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Shay-2804/LeetCode/tree/master/0383-ransom-note) |
