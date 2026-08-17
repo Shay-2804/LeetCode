@@ -1,28 +1,22 @@
 class Solution {
 public:
     string countAndSay(int n) {
-        string res="1";
-        helper(1,n,res);
-        return res;
-    }
-
-    void helper(int r,int n,string& res){
-        if(r>=n){
-            return; // base case
-        }
-        string prev = res;
-        res="";
-        int l=0,count=0;
-        for(int r=0;r<prev.length();r++){
-            if(prev[l]!=prev[r]){
-                res+= to_string(count) + prev[l];
-                l=r;
-                count=1;
-            }else{
+      if (n==0){
+        return "";
+      }
+      string res="1";
+      while(--n){
+        string cur="";
+        for(int i=0;i<res.size();i++){
+            int count=1;
+            while((i+1)<res.length() && (res[i]==res[i+1])){
                 count++;
+                i++;
             }
+            cur+= to_string(count) + res[i];
         }
-        res+= to_string(count) + prev[l];
-        return helper(r+1,n,res);
+        res=cur;
+      }
+      return res;
     }
 };
