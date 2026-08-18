@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Shay-2804/LeetCode/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/Shay-2804/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Shay-2804/LeetCode/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/Shay-2804/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Shay-2804/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Shay-2804/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shay-2804/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Shay-2804/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Shay-2804/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shay-2804/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
