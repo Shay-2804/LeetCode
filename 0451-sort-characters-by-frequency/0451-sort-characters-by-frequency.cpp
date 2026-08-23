@@ -5,18 +5,15 @@ public:
         for(auto c:s){
             mpp[c]++;
         }
-        vector<pair<char,int>>vec;
-        for(auto it:mpp){
-            vec.push_back({it.first,it.second});
+        vector<vector<char>>bucket(s.length()+1);
+        for(auto [ch,fq] : mpp){
+            bucket[fq].push_back(ch);
         }
-
-        auto cmp = [&](pair<char,int>&a,pair<char,int>&b){
-            return a.second>b.second;
-        };
-        sort(vec.begin(),vec.end(),cmp);
         string ans="";
-        for(auto [ch,fq] : vec){
-            ans.append(fq,ch);
+        for(int fq=s.length();fq>=1;fq--){
+            for(auto ch : bucket[fq]){
+                ans.append(fq,ch);
+            }
         }
         return ans;
     }
