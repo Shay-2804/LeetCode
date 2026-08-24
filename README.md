@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shay-2804/LeetCode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/Shay-2804/LeetCode/tree/master/0050-powx-n) |
 | [1903-largest-odd-number-in-string](https://github.com/Shay-2804/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Heap (Priority Queue)
 |  |
@@ -124,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shay-2804/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Shay-2804/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
