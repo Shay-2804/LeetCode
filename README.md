@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Shay-2804/LeetCode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Shay-2804/LeetCode/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/Shay-2804/LeetCode/tree/master/0179-largest-number) |
+| [0525-contiguous-array](https://github.com/Shay-2804/LeetCode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shay-2804/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Shay-2804/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Shay-2804/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Shay-2804/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shay-2804/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Shay-2804/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0525-contiguous-array](https://github.com/Shay-2804/LeetCode/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/Shay-2804/LeetCode/tree/master/0567-permutation-in-string) |
 ## Counting
 |  |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Shay-2804/LeetCode/tree/master/0050-powx-n) |
+## Prefix Sum
+|  |
+| ------- |
+| [0525-contiguous-array](https://github.com/Shay-2804/LeetCode/tree/master/0525-contiguous-array) |
 <!---LeetCode Topics End-->
